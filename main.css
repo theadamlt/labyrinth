@@ -1,0 +1,15 @@
+.Start {
+	background-color: red;
+}
+.Slut {
+	background-color: green;
+}
+.Grid {
+	empty-cells: show;
+	border-spacing: 0px;
+}
+.Grid TD{
+	border: 1px solid black;
+	width: 1em;
+	height: 1em;
+}
